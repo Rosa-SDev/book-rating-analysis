@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.idea/
+.vscode/
+data/raw/
+.claude/
+CLAUDE.md
+reports/sample_figures/
